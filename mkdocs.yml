@@ -2,6 +2,7 @@ site_name: EdgeTX
 repo_url: https://github.com/EdgeTX/edgetx
 repo_name: EdgeTX/edgetx
 
+
 # Copyright
 copyright: Copyright &copy; 2021-2023 EdgeTX
 
@@ -22,6 +23,7 @@ nav:
         - Fest 2023: fest2023.md
 theme:
   name: material
+  custom_dir: overrides
   logo: assets/logo.png
   palette:
     primary: blue
