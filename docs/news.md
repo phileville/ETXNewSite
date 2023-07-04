@@ -1,5 +1,3 @@
-## Join our community!
-[<img src="https://discordapp.com/api/guilds/839849772864503828/widget.png?style=banner2" alt="Discord Banner 1"/>](https://discord.gg/wF9wUKnZ6H)  [<img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/FBGroup.png?raw=true" height="76" width="288"/>](https://www.facebook.com/groups/edgetx) 
  
 ## What's new ##
 
