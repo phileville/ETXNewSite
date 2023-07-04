@@ -39,7 +39,7 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/wF9wUKnZ6H
       name: Connect with us on Discord
-    - icon: fontawesome/brands/Facebook
+    - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/groups/edgetx
       name: Join the Facebook group
     - icon: fontawesome/solid/globe
