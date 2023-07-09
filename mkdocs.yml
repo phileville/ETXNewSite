@@ -15,7 +15,6 @@ nav:
         - FAQ: faq.md
         - About EdgeTX: about.md
         - Project Bylaws: bylaws.md
-        - Test: /wiki/CLI.Commands.md
     - For Developers: devinfo.md 
     - For Manufacturers: 
         - EdgeTX on your radio: edgetxsupport.md
