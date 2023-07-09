@@ -15,10 +15,11 @@ nav:
         - FAQ: faq.md
         - About EdgeTX: about.md
         - Project Bylaws: bylaws.md
+        - Test: /wiki/CLI.Commands.md
     - For Developers: devinfo.md 
     - For Manufacturers: 
         - EdgeTX on your radio: edgetxsupport.md
-        - Partnership Program: partnershipprogram.md 
+        - Partnership Program: partnershipprogram.md
     - Fest 2023:
         - Fest 2023: fest2023.md
 theme:
@@ -26,7 +27,7 @@ theme:
   custom_dir: overrides
   logo: assets/logo.png
   palette:
-    primary: blue
+    primary: custom
   features:
     - announce.dismiss
     - navigation.instant
@@ -35,7 +36,10 @@ theme:
     - search.highlight
     - search.suggest
     - toc.follow
-    
+   
+extra_css:
+  - stylesheets/extra.css
+  
 extra:
   social:
     - icon: fontawesome/brands/discord
