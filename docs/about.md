@@ -43,6 +43,6 @@ You can also contribute to EdgeTX in other ways. We need developers as well as e
 
 ### Have questions?
 
-Feel free to contact the EdgeTX project steering committee either on discord or via email at: psc@edgetx.org 
+Feel free to contact the EdgeTX project steering committee either on [Discord](https://discord.gg/wF9wUKnZ6H) or via email at: psc@edgetx.org 
 
 
