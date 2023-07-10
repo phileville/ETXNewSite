@@ -1,4 +1,4 @@
-# Hardware Requirementa for EdgeTX
+# Hardware Requirements for EdgeTX
 
 ## Color screen radios
 
