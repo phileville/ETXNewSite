@@ -1,15 +1,8 @@
-(page under construction)
+# Hardware Requirementa for EdgeTX
 
-- [Color screen radios](#color-screen-radios)
-  * [Mandatory hardware features (color):](#mandatory-hardware-features-color)
-  * [Optional (color):](#optional-color)
-- [Black-and-white radios](#black-and-white-radios)
-  * [Mandatory hardware features (B/W):](#mandatory-hardware-features-bw)
-  * [Optional (B/W):](#optional-bw)
+## Color screen radios
 
-# Color screen radios
-
-## Mandatory hardware features (color):
+### Mandatory hardware features (color)
 * MCU: presently only STM32F429BI and STM32F439BI with 2 MB flash are supported. Running at 168 MHz.
   Support for STM32F7/H7 MCUs is planned from EdgeTX v3 onwards.
 * SDRAM with minimally 8MB
@@ -39,7 +32,7 @@
 * USB-C device mode connection
 * For radios with an internal module, lines to put the module into flashing mode to perform pass-through flashing
 
-## Optional (color):
+### Optional (color)
 * Display backlight control via PWM - connection to hw-PWM capable pin on the MCU
 * Gimbals with either analog, PWM (e.g. TLE4998P3), SPI ADC (e.g. ADS7952) or UART communication
 * Switches as digital or analog inputs
@@ -58,9 +51,11 @@
 * IMU (e.g. LSM6DS33)
 * SpaceMouse module
 
-# Black-and-white radios
+---
 
-## Mandatory hardware features (B/W):
+## Black-and-white radios
+
+### Mandatory hardware features (B/W)
 * MCU: STM32F2 and STM32F4 with minimally 512 kByte flash (for new radios only STM32F4 with minimally 1 MB flash)
   <br/> STM32F2 running at 120 MHz, STM32F4 running at 168 MHz
 * SD/microSD card slot or embedded SD NAND (e.g. XTX XTSD04G, minimally 512 MByte)
@@ -84,7 +79,7 @@
 * USB-C device mode connection (minimally for new radios)
 * For radios with an internal module, lines to put the module into flashing mode to perform pass-through flashing
 
-## Optional (B/W):
+### Optional (B/W)
 * Display backlight control via PWM - connection to hw-PWM capable pin on the MCU
 * Gimbals with either analog, PWM (e.g. TLE4998P3), SPI ADC (e.g. ADS7952) or UART communication
 * Switches as digital or analog inputs
