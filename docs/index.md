@@ -4,7 +4,7 @@ hide:
 ---
 
 <p align="center">
-<a href="url"><img src="assets/edgehog.png" align="center" width="300"></a>
+<a><img src="assets/edgehog.png" align="center" width="300"></a>
 </P>
 
 ## What's new ##
