@@ -16,7 +16,7 @@ hide:
 
 The first release candidate for EdgeTX v2.9.0 has been released for testing. Please read the release notes before updating as there are many changes:  [https://github.com/EdgeTX/edgetx/releases/tag/v2.9.0-rc1](https://github.com/EdgeTX/edgetx/releases/tag/v2.9.0-rc1)
 
-Also the EdgeTX User Manual has also been updated to reflect all the changes, with explanations: [https://edgetx.gitbook.io/edgetx-user-manual/](https://edgetx.gitbook.io/edgetx-user-manual/)
+Also the EdgeTX User-Manual has also been updated to reflect all the changes, with explanations: [https://edgetx.gitbook.io/edgetx-user-manual/](https://edgetx.gitbook.io/edgetx-user-manual/)
 
 
 ---

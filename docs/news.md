@@ -1,4 +1,4 @@
- 
+
 ## What's new ##
 
 
@@ -93,7 +93,7 @@ Special thanks to our event sponsors for providing the prizes and giveaways for 
 Thanks again to all participants, sponsors, and supporters of the event.  We are excited to see what the next year will bring to EdgeTX and looking forward to celebrating the second year of EdgeTX next year!
 <p></p> 
 <p align="center">
-<a href="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/EdgeTXFestCol.jpg?raw=true"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/EdgeTXFestCol.jpg?raw=true" align="center" width="800
+<a><img src="/assets/EdgeTXFestCol.jpg?raw=true" align="center" width="800
 "></a>
 </P>
 
@@ -123,7 +123,7 @@ Join us on September 10th, 2022 for the EdgeTX Fest.  More information at:
 [https://edgetx.org/fest2022](https://edgetx.org/fest2022)
 <p></p> 
 <p align="center">
-<a href="https://edgetx.org/fest2022"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/ETXFEST.png?raw=true" align="center" width="350
+<a><img src="/assets/ETXFEST2022.png?raw=true" align="center" width="350
 "></a>
 </P>
 
@@ -209,7 +209,7 @@ If you are interested in seeing what new features will come in future EdgeTX rel
 **Sept. 11th, 2021**
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/EdgeTX/edgetx.github.io/master/images/wantyou.gif" align="center" height="171" width="138">
+<img src="/assets/wantyou.gif" align="center" height="171" width="138">
 </P>
 
 **The EdgeTX team is looking for additional members to help create the cutting-edge.**
