@@ -11,7 +11,6 @@ hide:
 
 **July 19, 2023**
 
-Dear EdgeTX Community,
 
 We are thrilled to unveil the brand-new Eddie the EdgeHog logo as we celebrate the start of the 3rd year of the EdgeTX project! This fresh, captivating design represents a significant milestone in our journey towards open-source excellence in the world of Radio Control transmitters.
 
