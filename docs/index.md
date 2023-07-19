@@ -8,6 +8,7 @@ hide:
 
 
 **Introducing the new Eddie the EdgeHog Logo!**
+
 **July 19, 2023**
 
 Dear EdgeTX Community,
