@@ -7,9 +7,9 @@ hide:
 ## What's new ##
 
 
-**Introducing the new Eddie the EdgeHog Logo!**
-
 **July 19, 2023**
+
+**Introducing the new Eddie the EdgeHog Logo!**
 
 
 We are thrilled to unveil the brand-new Eddie the EdgeHog logo as we celebrate the start of the 3rd year of the EdgeTX project! This fresh, captivating design represents a significant milestone in our journey towards open-source excellence in the world of Radio Control transmitters.
@@ -31,6 +31,21 @@ Stay tuned for more exciting updates, feature enhancements, and collaborative ev
 Thank you all for being a part of EdgeTX.
 
 Happy Flying!
+
+---
+
+**July 18th, 2023**
+
+**EdgeTX Fest 2023**
+
+Join us on September 9th & 10th, 2023, for the EdgeTX Fest. We will celebrate the 2nd year of EdgeTX and the 50th year of our gracious hosts, the Heideflieger Hövelhof e.V Model Flight Club in Hövelhof, Germany. More information at:
+ [https://edgetx.org/fest2023](https://edgetx.org/fest2023)
+ 
+<p></p> 
+<p align="center">
+<a><img src="/assets/fest2023_web.jpg?raw=true" align="center" width="350
+"></a>
+</P>
 
 ---
 
