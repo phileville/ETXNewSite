@@ -3,8 +3,6 @@ hide:
   - toc
 ---
 
-## Using EdgeTX Logos
-
 The EdgeTX "Edgehog", star and colored star ("Logos") are protected by copyright laws and international treaty provisions. Unauthorized reproduction or distribution of these Logos or any portion thereof may result in severe civil and criminal penalties and will be prosecuted to the maximum extent possible under the law.
 
 ### Permitted Use:
